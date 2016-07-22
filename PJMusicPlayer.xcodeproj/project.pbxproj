@@ -12,6 +12,24 @@
 		7B07BDA51D275EFB00703B7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B07BDA31D275EFB00703B7C /* Main.storyboard */; };
 		7B07BDA71D275EFB00703B7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B07BDA61D275EFB00703B7C /* Assets.xcassets */; };
 		7B07BDAA1D275EFB00703B7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B07BDA81D275EFB00703B7C /* LaunchScreen.storyboard */; };
+		7BCBDAE01D276CD000CDB135 /* bacground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDADF1D276CD000CDB135 /* bacground.jpg */; };
+		7BCBDAEC1D276D9F00CDB135 /* previousMusic.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE11D276D9F00CDB135 /* previousMusic.png */; };
+		7BCBDAED1D276D9F00CDB135 /* circleClose.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE21D276D9F00CDB135 /* circleClose.png */; };
+		7BCBDAEE1D276D9F00CDB135 /* circleOpen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE31D276D9F00CDB135 /* circleOpen.png */; };
+		7BCBDAEF1D276D9F00CDB135 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE41D276D9F00CDB135 /* menu.png */; };
+		7BCBDAF01D276D9F00CDB135 /* nextMusic.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE51D276D9F00CDB135 /* nextMusic.png */; };
+		7BCBDAF11D276D9F00CDB135 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE61D276D9F00CDB135 /* pause.png */; };
+		7BCBDAF21D276D9F00CDB135 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE71D276D9F00CDB135 /* play.png */; };
+		7BCBDAF31D276D9F00CDB135 /* randomClose.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE81D276D9F00CDB135 /* randomClose.png */; };
+		7BCBDAF41D276D9F00CDB135 /* randomOpen.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAE91D276D9F00CDB135 /* randomOpen.png */; };
+		7BCBDAF51D276D9F00CDB135 /* sliderThumb_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAEA1D276D9F00CDB135 /* sliderThumb_small.png */; };
+		7BCBDAF61D276D9F00CDB135 /* soundSlider.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAEB1D276D9F00CDB135 /* soundSlider.png */; };
+		7BCBDAFE1D27AEC800CDB135 /* 情非得已.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAF81D27AEC800CDB135 /* 情非得已.lrc */; };
+		7BCBDAFF1D27AEC800CDB135 /* 情非得已.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAF91D27AEC800CDB135 /* 情非得已.mp3 */; };
+		7BCBDB001D27AEC800CDB135 /* 林俊杰-背对背拥抱.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAFA1D27AEC800CDB135 /* 林俊杰-背对背拥抱.lrc */; };
+		7BCBDB011D27AEC800CDB135 /* 林俊杰-背对背拥抱.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAFB1D27AEC800CDB135 /* 林俊杰-背对背拥抱.mp3 */; };
+		7BCBDB021D27AEC800CDB135 /* 梁静茹-偶阵雨.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAFC1D27AEC800CDB135 /* 梁静茹-偶阵雨.lrc */; };
+		7BCBDB031D27AEC800CDB135 /* 梁静茹-偶阵雨.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7BCBDAFD1D27AEC800CDB135 /* 梁静茹-偶阵雨.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +40,24 @@
 		7B07BDA61D275EFB00703B7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B07BDA91D275EFB00703B7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B07BDAB1D275EFB00703B7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BCBDADF1D276CD000CDB135 /* bacground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bacground.jpg; sourceTree = "<group>"; };
+		7BCBDAE11D276D9F00CDB135 /* previousMusic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previousMusic.png; sourceTree = "<group>"; };
+		7BCBDAE21D276D9F00CDB135 /* circleClose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circleClose.png; sourceTree = "<group>"; };
+		7BCBDAE31D276D9F00CDB135 /* circleOpen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circleOpen.png; sourceTree = "<group>"; };
+		7BCBDAE41D276D9F00CDB135 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
+		7BCBDAE51D276D9F00CDB135 /* nextMusic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nextMusic.png; sourceTree = "<group>"; };
+		7BCBDAE61D276D9F00CDB135 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		7BCBDAE71D276D9F00CDB135 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		7BCBDAE81D276D9F00CDB135 /* randomClose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = randomClose.png; sourceTree = "<group>"; };
+		7BCBDAE91D276D9F00CDB135 /* randomOpen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = randomOpen.png; sourceTree = "<group>"; };
+		7BCBDAEA1D276D9F00CDB135 /* sliderThumb_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sliderThumb_small.png; sourceTree = "<group>"; };
+		7BCBDAEB1D276D9F00CDB135 /* soundSlider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soundSlider.png; sourceTree = "<group>"; };
+		7BCBDAF81D27AEC800CDB135 /* 情非得已.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "情非得已.lrc"; sourceTree = "<group>"; };
+		7BCBDAF91D27AEC800CDB135 /* 情非得已.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "情非得已.mp3"; sourceTree = "<group>"; };
+		7BCBDAFA1D27AEC800CDB135 /* 林俊杰-背对背拥抱.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "林俊杰-背对背拥抱.lrc"; sourceTree = "<group>"; };
+		7BCBDAFB1D27AEC800CDB135 /* 林俊杰-背对背拥抱.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "林俊杰-背对背拥抱.mp3"; sourceTree = "<group>"; };
+		7BCBDAFC1D27AEC800CDB135 /* 梁静茹-偶阵雨.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "梁静茹-偶阵雨.lrc"; sourceTree = "<group>"; };
+		7BCBDAFD1D27AEC800CDB135 /* 梁静茹-偶阵雨.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "梁静茹-偶阵雨.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +74,8 @@
 		7B07BD931D275EFA00703B7C = {
 			isa = PBXGroup;
 			children = (
+				7BCBDAF71D27AEC800CDB135 /* source */,
+				7BCBDADE1D276CD000CDB135 /* images */,
 				7B07BD9E1D275EFB00703B7C /* PJMusicPlayer */,
 				7B07BD9D1D275EFB00703B7C /* Products */,
 			);
@@ -62,6 +100,38 @@
 				7B07BDAB1D275EFB00703B7C /* Info.plist */,
 			);
 			path = PJMusicPlayer;
+			sourceTree = "<group>";
+		};
+		7BCBDADE1D276CD000CDB135 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				7BCBDAE11D276D9F00CDB135 /* previousMusic.png */,
+				7BCBDAE21D276D9F00CDB135 /* circleClose.png */,
+				7BCBDAE31D276D9F00CDB135 /* circleOpen.png */,
+				7BCBDAE41D276D9F00CDB135 /* menu.png */,
+				7BCBDAE51D276D9F00CDB135 /* nextMusic.png */,
+				7BCBDAE61D276D9F00CDB135 /* pause.png */,
+				7BCBDAE71D276D9F00CDB135 /* play.png */,
+				7BCBDAE81D276D9F00CDB135 /* randomClose.png */,
+				7BCBDAE91D276D9F00CDB135 /* randomOpen.png */,
+				7BCBDAEA1D276D9F00CDB135 /* sliderThumb_small.png */,
+				7BCBDAEB1D276D9F00CDB135 /* soundSlider.png */,
+				7BCBDADF1D276CD000CDB135 /* bacground.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		7BCBDAF71D27AEC800CDB135 /* source */ = {
+			isa = PBXGroup;
+			children = (
+				7BCBDAF81D27AEC800CDB135 /* 情非得已.lrc */,
+				7BCBDAF91D27AEC800CDB135 /* 情非得已.mp3 */,
+				7BCBDAFA1D27AEC800CDB135 /* 林俊杰-背对背拥抱.lrc */,
+				7BCBDAFB1D27AEC800CDB135 /* 林俊杰-背对背拥抱.mp3 */,
+				7BCBDAFC1D27AEC800CDB135 /* 梁静茹-偶阵雨.lrc */,
+				7BCBDAFD1D27AEC800CDB135 /* 梁静茹-偶阵雨.mp3 */,
+			);
+			path = source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -90,6 +160,7 @@
 		7B07BD941D275EFA00703B7C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = PJ;
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "彭晋";
@@ -123,8 +194,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BCBDAEF1D276D9F00CDB135 /* menu.png in Resources */,
+				7BCBDB011D27AEC800CDB135 /* 林俊杰-背对背拥抱.mp3 in Resources */,
+				7BCBDB031D27AEC800CDB135 /* 梁静茹-偶阵雨.mp3 in Resources */,
+				7BCBDAF01D276D9F00CDB135 /* nextMusic.png in Resources */,
+				7BCBDAF11D276D9F00CDB135 /* pause.png in Resources */,
+				7BCBDB001D27AEC800CDB135 /* 林俊杰-背对背拥抱.lrc in Resources */,
+				7BCBDAFE1D27AEC800CDB135 /* 情非得已.lrc in Resources */,
+				7BCBDAEC1D276D9F00CDB135 /* previousMusic.png in Resources */,
+				7BCBDAF61D276D9F00CDB135 /* soundSlider.png in Resources */,
+				7BCBDAEE1D276D9F00CDB135 /* circleOpen.png in Resources */,
+				7BCBDAF31D276D9F00CDB135 /* randomClose.png in Resources */,
+				7BCBDAFF1D27AEC800CDB135 /* 情非得已.mp3 in Resources */,
 				7B07BDAA1D275EFB00703B7C /* LaunchScreen.storyboard in Resources */,
+				7BCBDAF51D276D9F00CDB135 /* sliderThumb_small.png in Resources */,
+				7BCBDB021D27AEC800CDB135 /* 梁静茹-偶阵雨.lrc in Resources */,
+				7BCBDAE01D276CD000CDB135 /* bacground.jpg in Resources */,
+				7BCBDAF21D276D9F00CDB135 /* play.png in Resources */,
+				7BCBDAF41D276D9F00CDB135 /* randomOpen.png in Resources */,
 				7B07BDA71D275EFB00703B7C /* Assets.xcassets in Resources */,
+				7BCBDAED1D276D9F00CDB135 /* circleClose.png in Resources */,
 				7B07BDA51D275EFB00703B7C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +376,7 @@
 				7B07BDB01D275EFB00703B7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
