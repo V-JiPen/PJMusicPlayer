@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B045F141D48EC9D0070F99D /* playListBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B045F131D48EC9D0070F99D /* playListBackground.jpg */; };
 		7B07BDA01D275EFB00703B7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B07BD9F1D275EFB00703B7C /* AppDelegate.swift */; };
 		7B07BDA21D275EFB00703B7C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B07BDA11D275EFB00703B7C /* ViewController.swift */; };
 		7B07BDA51D275EFB00703B7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B07BDA31D275EFB00703B7C /* Main.storyboard */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B045F131D48EC9D0070F99D /* playListBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = playListBackground.jpg; sourceTree = "<group>"; };
 		7B07BD9C1D275EFB00703B7C /* PJMusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PJMusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B07BD9F1D275EFB00703B7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7B07BDA11D275EFB00703B7C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 		7BCBDADE1D276CD000CDB135 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				7B045F131D48EC9D0070F99D /* playListBackground.jpg */,
 				7BCBDAE11D276D9F00CDB135 /* previousMusic.png */,
 				7BCBDAE21D276D9F00CDB135 /* circleClose.png */,
 				7BCBDAE31D276D9F00CDB135 /* circleOpen.png */,
@@ -207,6 +210,7 @@
 				7BCBDAF31D276D9F00CDB135 /* randomClose.png in Resources */,
 				7BCBDAFF1D27AEC800CDB135 /* 情非得已.mp3 in Resources */,
 				7B07BDAA1D275EFB00703B7C /* LaunchScreen.storyboard in Resources */,
+				7B045F141D48EC9D0070F99D /* playListBackground.jpg in Resources */,
 				7BCBDAF51D276D9F00CDB135 /* sliderThumb_small.png in Resources */,
 				7BCBDB021D27AEC800CDB135 /* 梁静茹-偶阵雨.lrc in Resources */,
 				7BCBDAE01D276CD000CDB135 /* bacground.jpg in Resources */,
